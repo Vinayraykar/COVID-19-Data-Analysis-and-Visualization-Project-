@@ -1,1 +1,2 @@
-# COVID-19-Data-Analysis-and-Visualization-Project-
+# COVID-19-Data-Analysis-and-Visualization-Project- 
+This project presents a detailed analysis and visualization of global COVID-19 data using datasets from Worldometer. It explores relationships between testing, confirmed cases, deaths, recoveries, and population metrics across different countries and continents. The project includes an interactive dashboard and a comprehensive report to summarize key insights for researchers and policymakers.
